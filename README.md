@@ -1,2 +1,2 @@
 # yolov8_nnstreamer
-![Video](output.flv)
+![Example GIF](output.gif)
